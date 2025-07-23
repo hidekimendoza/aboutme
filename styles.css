@@ -1,0 +1,24 @@
+:root {
+  --blue_primary: #007bff;
+  --acccet_teal: #17a2b8;
+  --light_background: #f8f9fa;
+  --dark_text: #212529;
+  --gray_borders: #dee2e6;
+}
+
+
+body {
+    background-color: var(--light_background);
+}
+header {
+    color:var(--blue_primary);
+}
+
+
+body {
+    color: var(--dark_text);
+}
+
+h1 {
+    color: var(--acccet_teal);
+}
